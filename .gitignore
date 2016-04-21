@@ -1,2 +1,5 @@
 hit_data.tsv
 Download.py
+out.csv
+*.csv
+*.tsv
